@@ -10,7 +10,7 @@ namespace CrackingTheCode.Space_Complexity
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine(Example2.PairSumSequence(1));
+            Console.WriteLine(Example2.PairSumSequence(10));
             Console.ReadLine();
         }
 
